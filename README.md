@@ -27,14 +27,14 @@ Follow the progress of the course to modify the code within sections with place 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
 # Table of contents
 1. Prepare your onboard computer  
-        1.1 install ubuntu 18.04 (pick the version that match ROS versions)
-        1.2 install ROS melodic  
+        1.1 install Ubuntu 18.04 (pick the version that match ROS versions)
+        1.2 install ROS Melodic  
         1.3 install git (optional for code backups)  
-        1.4 install visual studio (as code editor)  
+        1.4 install Visual Studio (as code editor)  
 3. Demo: sensor reading  
         2.1 install Arduino IDE  
         2.2 wirte the code to read sensor data  
-        2.3 use jetson to read data from arduino microcontroller  
+        2.3 use Jetson to read data from arduino microcontroller  
 4. Demo: control system demo  
         3.1 pid depth control on microcontroller
         3.2 position control
