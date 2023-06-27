@@ -50,7 +50,7 @@ After installation, your system will have this version: Ubuntu 18.04
 
 ---
 ## 1.2 install ROS  
-We will ros melodic as an example, check compatability before choosing which version of ros to install. The official operating system for the Jetson Nano and other Jetson boards is called Linux4Tegra, which is actually a version of Ubuntu 18.04 that's designed to run on Nvidia's hardware. Check this link for details on how to install ros: http://wiki.ros.org/melodic/Installation/Ubuntu.   
+We will ROS Melodic as an example, check compatability before choosing which version of ROS to install. The official operating system for the Jetson Nano and other Jetson boards is called Linux4Tegra, which is actually a version of Ubuntu 18.04 that's designed to run on Nvidia's hardware. Check this link for details on how to install ROS: http://wiki.ros.org/melodic/Installation/Ubuntu.   
 
 Alternative: Follow the following isntruction to install ROS
 
