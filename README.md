@@ -31,11 +31,11 @@ Follow the progress of the course to modify the code within sections with place 
         1.2 install ROS melodic  
         1.3 install git (optional for code backups)  
         1.4 install visual studio (as code editor)  
-2. Demo: sensor reading  
+3. Demo: sensor reading  
         2.1 install Arduino IDE  
         2.2 wirte the code to read sensor data  
         2.3 use jetson to read data from arduino microcontroller  
-3. Demo: control system demo  
+4. Demo: control system demo  
         3.1 pid depth control on microcontroller
         3.2 position control
 
