@@ -26,11 +26,11 @@ Follow the progress of the course to modify the code within sections with place 
 #~~~~~~~~ Update Your Code Here ~~~~~~~~  
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
 # Table of contents
-1. Prepare your onboard computer  
-        1.1 install Ubuntu 18.04 (pick the version that match ROS versions)
-        1.2 install ROS Melodic
-        1.3 install git (optional for code backups)  
-        1.4 install Visual Studio (as code editor)  
+1. Prepare your onboard computer<br>
+   1.1 install Ubuntu 18.04 (pick the version that match ROS versions)<br>
+   1.2 install ROS Melodic<br>
+   1.3 install git (optional for code backups)<br>
+   1.4 install Visual Studio (as code editor)<br>
 3. Demo: sensor reading  
         2.1 install Arduino IDE  
         2.2 wirte the code to read sensor data  
@@ -44,8 +44,9 @@ Follow the progress of the course to modify the code within sections with place 
 ## 1.1 prepare the micro-sd card for Nvidia Jetson Nano   
 
 Follow this link to setup the jetson-nano 2G: https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit.  
-Note: For Jetson-nano-2gb board, choose this version: Jetson Nano 2GB Developer Kit SD Card Image 4.6, and the link is here: https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip  
-Username and password choose: robosub  
+Note: For Jetson-nano-2gb board, choose this version: Jetson Nano 2GB Developer Kit SD Card Image 4.6, and the link is here: https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip<br>
+
+Username and password choose: **robosub**  
 After installation, your system will have this version: Ubuntu 18.04  
 
 ---
