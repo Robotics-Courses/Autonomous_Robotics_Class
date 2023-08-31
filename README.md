@@ -92,7 +92,8 @@ Check this link for details: https://ubuntu.com/tutorials/install-the-arduino-id
 
 ---
 ## 1.4 Install Visual Studio Code  
-1. Download Linux Arm 64 bits debian here: https://code.visualstudio.com/download  
+1. Download Linux Arm 64 bits debian, code_1.70.1-1660111764_arm64.deb here: https://packages.microsoft.com/repos/code/pool/main/c/code/. For latest version, it's at https://code.visualstudio.com/download  
+We only use the older version, code_1.70.1-1660111764_arm64.deb for Ubuntu 18.04.
 Instructions: https://code.visualstudio.com/docs/?dv=linuxarm64  
 
 2. cd Downloads/  
