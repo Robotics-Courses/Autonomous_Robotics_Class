@@ -175,3 +175,11 @@ To run Visual Studio Code, and setup github call it in a terminal
 
 You can follow instructions here to setup VNC (optional, use headless model, access jetson under the same network via wifi): https://developer.nvidia.com/embedded/learn/tutorials/vnc-setup
 Someone else tried this, but I have not tried yet. Let me know how this works if you have tried. https://github.com/overclock98/Jetson_Nano_true_Headless_setup_without_hdmi_display/blob/main/README.md
+
+
+
+Updates log
+###
+9/24 NVdia image link, https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip is added to the instruction
+12/4 real_perfectCase_smach.py added to root/state_machine/src
+12/4 updated real_laucher.bash; sudo chmod 777 /dev/ttyACM0 added
