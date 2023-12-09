@@ -179,7 +179,7 @@ Someone else tried this, but I have not tried yet. Let me know how this works if
 
 
 ---
-### Updates log
-<p>9/24 NVdia image link, https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip is added to the instruction</p>
-<p>12/4 real_perfectCase_smach.py added to root/state_machine/src</p>
-<p>12/4 updated real_laucher.bash; sudo chmod 777 /dev/ttyACM0 added</p>
+# Updates log
+1. 12/4 updated real_laucher.bash; command sudo chmod 777 /dev/ttyACM0 added
+2. 12/4 real_perfectCase_smach.py added to root/state_machine/src
+3. 9/24 NVidia image link, https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip is added to the instruction
