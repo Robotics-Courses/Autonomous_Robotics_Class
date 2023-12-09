@@ -180,6 +180,6 @@ Someone else tried this, but I have not tried yet. Let me know how this works if
 
 ---
 # Updates log
-1. 12/4 updated real_laucher.bash; command sudo chmod 777 /dev/ttyACM0 was added
+1. 12/4 updated real_laucher.bash; command rosrun rosserial_python serial_node.py /dev/ttyACM0 was updated to rosrun rosserial_python serial_node.py _port:=/dev/ttyACM0 _baud:=9600
 2. 12/4 real_perfectCase_smach.py was added to root/state_machine/src
 3. 9/24 NVidia image link, https://developer.nvidia.com/embedded/l4t/r32_release_v6.1/jeston_nano/jetson-nano-jp46-sd-card-image.zip was added to the instruction
