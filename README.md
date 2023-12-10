@@ -1,4 +1,4 @@
-![image](https://github.com/Robotics-Courses/Autonomous_Robotics_Class/assets/116391198/0380b7e7-2cec-4431-982d-a90cf7a28025)# Submarine Robotics Introduction
+
 This repository is used for a submarine robot course offered at California State University, Los Angeles. The code works with a small submarine robot designed for this courses.
 # What does the robot look like?
 (1) Robot Configuration: This robot has a confuguration as follows. It has in total 6 thrusters with four (1-4) for leveling and depth control, and two (5-6) for horizontal motion control (forward, backward, turning). 
@@ -18,7 +18,7 @@ This repository is used for a submarine robot course offered at California State
 
 
       
-      ![robot](https://github.com/Robotics-Courses/Autonomous_Robotics_Class/assets/116391198/ba6e9e7e-3218-42f5-9785-8ffc066c2e40)
+     ![image](https://github.com/Robotics-Courses/Autonomous_Robotics_Class/assets/116391198/0380b7e7-2cec-4431-982d-a90cf7a28025)# Submarine Robotics Introduction
 
 (2) Sensors: Camera, IMU, Temperature sensor  
 (3) Mother Board - Jetson Nando (run the overall program)  
