@@ -18,7 +18,7 @@ This repository is used for a submarine robot course offered at California State
 
 
       
-     ![image](https://github.com/Robotics-Courses/Autonomous_Robotics_Class/assets/116391198/0380b7e7-2cec-4431-982d-a90cf7a28025)# Submarine Robotics Introduction
+     
 
 (2) Sensors: Camera, IMU, Temperature sensor  
 (3) Mother Board - Jetson Nando (run the overall program)  
